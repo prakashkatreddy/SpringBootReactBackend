@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch StudentsystemApplication",
+            "request": "launch",
+            "mainClass": "com.newreact.studentsystem.StudentsystemApplication",
+            "projectName": "studentsystem"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-StudentsystemApplication<studentsystem>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.arjuncodes.studentsystem.StudentsystemApplication",
+            "projectName": "studentsystem",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
